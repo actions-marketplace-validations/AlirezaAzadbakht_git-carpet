@@ -17,6 +17,6 @@ for (const file of readdirSync(dir)) {
     }
   }
   assert.equal(svg, carpet(profile, now).svg, `${file}: same input gave a different carpet`);
-  assert.ok(svg.length < 250_000, `${file}: ${svg.length} bytes is over the 250 KB budget`);
+  assert.ok(svg.length < 360_000, `${file}: ${svg.length} bytes is over the 360 KB budget`);
   console.log(`ok ${file} (${(svg.length / 1024).toFixed(0)} KB)`);
 }

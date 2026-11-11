@@ -14,15 +14,15 @@ The carpets below are woven from made-up profiles.
 
 ### Five city harmonies
 
-Your top language and your login pick one of five palettes, each modeled on a weaving city.
+Your top language and your login pick one of five palettes, each modeled on a weaving city. Kashan and Tabriz weave a herati lattice. Nain uses a finer lattice and a thinner border. Isfahan fills the field with palmettes on a vine. Heriz is geometric: a stepped medallion and a sparse grid of angular flowers.
 
 <table>
   <tr>
     <td align="center"><img src="examples/gallery/kashan.svg" width="150" alt="Kashan carpet: madder-red field, indigo border" /><br /><sub><b><a href="https://en.wikipedia.org/wiki/Persian_carpet#Town_carpets">Kashan</a></b><br />madder field, indigo border</sub></td>
     <td align="center"><img src="examples/gallery/tabriz.svg" width="150" alt="Tabriz carpet: ivory field, madder-red border" /><br /><sub><b><a href="https://en.wikipedia.org/wiki/Tabriz_rug">Tabriz</a></b><br />ivory field, madder border</sub></td>
-    <td align="center"><img src="examples/gallery/isfahan.svg" width="150" alt="Isfahan carpet: indigo field, madder-red border" /><br /><sub><b><a href="https://en.wikipedia.org/wiki/Isfahan_rug">Isfahan</a></b><br />indigo field, madder border</sub></td>
-    <td align="center"><img src="examples/gallery/nain.svg" width="150" alt="Nain carpet: ivory field, indigo border" /><br /><sub><b><a href="https://en.wikipedia.org/wiki/Nain_rug">Nain</a></b><br />ivory field, indigo border</sub></td>
-    <td align="center"><img src="examples/gallery/heriz.svg" width="150" alt="Heriz carpet: pomegranate field, indigo border" /><br /><sub><b><a href="https://en.wikipedia.org/wiki/Heriz_rug">Heriz</a></b><br />pomegranate field, indigo border</sub></td>
+    <td align="center"><img src="examples/gallery/isfahan.svg" width="150" alt="Isfahan carpet: indigo field of palmettes, madder-red border" /><br /><sub><b><a href="https://en.wikipedia.org/wiki/Isfahan_rug">Isfahan</a></b><br />indigo field, palmette vine</sub></td>
+    <td align="center"><img src="examples/gallery/nain.svg" width="150" alt="Nain carpet: ivory field, fine herati, indigo border" /><br /><sub><b><a href="https://en.wikipedia.org/wiki/Nain_rug">Nain</a></b><br />ivory field, fine herati</sub></td>
+    <td align="center"><img src="examples/gallery/heriz.svg" width="150" alt="Heriz carpet: pomegranate field, geometric medallion, indigo border" /><br /><sub><b><a href="https://en.wikipedia.org/wiki/Heriz_rug">Heriz</a></b><br />pomegranate field, geometric</sub></td>
   </tr>
 </table>
 
@@ -33,8 +33,8 @@ These three share a login, so they use the same palette, and only the activity d
 <table>
   <tr>
     <td align="center"><img src="examples/gallery/quiet.svg" width="230" alt="Quiet profile: open field with scattered flowers and a small medallion" /><br /><sub><b>Quiet</b><br />40 contributions · 3-day streak · 1-year-old account</sub></td>
-    <td align="center"><img src="examples/gallery/steady.svg" width="230" alt="Steady profile: leaves and lattice fill the field, gold vine in the border" /><br /><sub><b>Steady</b><br />600 contributions · 35-day streak · 7 years</sub></td>
-    <td align="center"><img src="examples/gallery/prolific.svg" width="230" alt="Prolific profile: dense lattice, large nested medallion, gold thread, double outer guard" /><br /><sub><b>Prolific</b><br />4,200 contributions · 120-day streak · 13 years</sub></td>
+    <td align="center"><img src="examples/gallery/steady.svg" width="230" alt="Steady profile: leaves, lattice and palmettes fill the field, gold vine in the border" /><br /><sub><b>Steady</b><br />600 contributions · 35-day streak · 7 years</sub></td>
+    <td align="center"><img src="examples/gallery/prolific.svg" width="230" alt="Prolific profile: dense lattice, Shah Abbasi palmettes, large nested medallion, gold thread, double outer guard" /><br /><sub><b>Prolific</b><br />4,200 contributions · 120-day streak · 13 years</sub></td>
   </tr>
 </table>
 
@@ -80,12 +80,12 @@ Activity changes the carpet a lot. A quiet year weaves a calm, open rug, and a b
 
 | Part of the rug | Quiet profile | Busy profile | Comes from |
 |---|---|---|---|
-| Field ([matn](https://en.wikipedia.org/wiki/Persian_carpet#Field_design,_medallions_and_borders)) | Open ground with scattered flowers | Leaves, then the herati lattice, then florets on every crossing | Contributions in the last year |
-| Central medallion ([toranj](https://en.wikipedia.org/wiki/Persian_carpet#Field_design,_medallions_and_borders)) | Small, plain star | Large, with a petal ring, an inner lobed frame and pendants | Contributions in the last year |
+| Field ([matn](https://en.wikipedia.org/wiki/Persian_carpet#Field_design,_medallions_and_borders)) | Open ground with scattered flowers | Leaves, then the herati lattice, then florets, then Shah Abbasi palmettes on alternate nodes. Isfahan grows a palmette vine instead; Heriz keeps a sparse grid of angular flowers | Contributions in the last year |
+| Central medallion ([toranj](https://en.wikipedia.org/wiki/Persian_carpet#Field_design,_medallions_and_borders)) | Small, plain star, with a thin cloud band in the halo | Large, with two petal rings, an inner lobed frame, pendants, and a gold cloud band around it. Heriz uses a stepped diamond | Contributions in the last year |
 | Gold thread | None | Gold vine from a 30-day streak; gold rosettes and medallion band from 90 days | Longest daily streak |
 | Main border ([hashiyeh](https://en.wikipedia.org/wiki/Persian_carpet#Field_design,_medallions_and_borders)) | A few rosettes | More rosettes, closer together | Longest daily streak |
 | Outer frame | One guard and one stripe | Up to three stripes, plus a second interlocking-tooth guard after 8 years | Account age |
-| Color harmony | | | Your top language and your login |
+| Color harmony and city layout | | | Your top language and your login. Kashan and Tabriz are herati, Nain a finer herati with a thinner border, Isfahan a palmette field, Heriz geometric |
 | [Abrash](https://en.wikipedia.org/wiki/Abrash): soft bands of shade | | | Each week of the last year, woven bottom to top. Busy weeks are a richer dye, quiet weeks a lighter one, the way real rugs show dye batches |
 
 Every color is a natural dye: madder, indigo, ivory, saffron, walnut, pistachio, pomegranate. The same account on the same day always gives the same carpet.
